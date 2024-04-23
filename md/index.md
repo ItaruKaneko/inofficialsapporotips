@@ -1,6 +1,18 @@
+- [Inofficial Sapporo guide](#inofficial-sapporo-guide)
+  - [Restaulants](#restaulants)
+    - [general](#general)
+    - [Suggestions](#suggestions)
+  - [accomodations](#accomodations)
+    - [Shin sapporo area](#shin-sapporo-area)
+    - [Air BnB](#air-bnb)
+    - [Love hotels.](#love-hotels)
+    - [NEt Cafe](#net-cafe)
+
+
+
 # Inofficial Sapporo guide
 
-Caution
+Disclaimer
 
 I cannot guarantee the reliability, credibility, or safety of the information on this page.
 Please check the information yourself before using it.
