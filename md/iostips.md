@@ -7,6 +7,7 @@
     - [Air BnB](#air-bnb)
     - [Love hotels.](#love-hotels)
     - [NEt Cafe](#net-cafe)
+  - [Bear](#bear)
 
 
 
@@ -92,3 +93,15 @@ There are many internet cafes where you can enjoy manga, anime, and DVDs while m
 An example of net caafe.
 
 https://www.diskcity.co.jp/shop/sapporo2/
+
+
+## Bear
+
+Bear
+Sapporo is large city but surrounded by mountain. And in Hokkaido, there are many wild bears living in mountain.
+
+In summer bear rarely come down to city area, because plenty foods in the mountain. Only in the fall and winter season, hungry bears come to city area. In April 23, only one bear is being observed.
+
+
+https://www.google.com/maps/d/u/0/viewer?mid=1KFgO-08qe4azD2bx968B7SM7nus&ll=43.05781885094037%2C141.51143192773435&z=10
+
