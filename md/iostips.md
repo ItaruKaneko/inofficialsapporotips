@@ -1,4 +1,4 @@
-- [Inofficial Sapporo guide](#inofficial-sapporo-guide)
+- [Unofficial Sapporo guide](#unofficial-sapporo-guide)
   - [Restaulants](#restaulants)
     - [general](#general)
     - [Suggestions](#suggestions)
@@ -7,11 +7,13 @@
     - [Air BnB](#air-bnb)
     - [Love hotels.](#love-hotels)
     - [NEt Cafe](#net-cafe)
+    - [On-sen Ryokan](#on-sen-ryokan)
   - [Bear](#bear)
+  - [Pacific Music Festivale\]](#pacific-music-festivale)
 
 
 
-# Inofficial Sapporo guide
+# Unofficial Sapporo guide
 
 Disclaimer
 
@@ -94,6 +96,13 @@ An example of net caafe.
 
 https://www.diskcity.co.jp/shop/sapporo2/
 
+### On-sen Ryokan
+
+On-sen and Ryokan is traditional style Japanese hotel. Unfortunately, Sapporo is relatively new city in Japan and there are not many On-sen Ryokan.
+
+Here is one.
+
+
 
 ## Bear
 
@@ -104,4 +113,26 @@ In summer bear rarely come down to city area, because plenty foods in the mounta
 
 
 https://www.google.com/maps/d/u/0/viewer?mid=1KFgO-08qe4azD2bx968B7SM7nus&ll=43.05781885094037%2C141.51143192773435&z=10
+
+
+## Pacific Music Festivale]
+
+The Pacific Music Festival (PMF) is an international educational music festival founded in Sapporo, Japan in 1990 by Leonard Bernstein (1918-1990), world-renowned conductor and composer of such works as West Side Story.
+
+https://www.pmf.or.jp/en/about/
+
+The PMF is running in parallel to coming MPEG meeting so you have chance to experience the event. It is held both in Kitara concert hall in Sapporo and Suntory hall in Tokyo.
+
+Schedule
+
+https://www.pmf.or.jp/en/schedule/
+
+Kitara concert hall
+
+https://www.kitara-sapporo.or.jp/en/
+
+You may also visit stature of Leonard Bernsten in front of Kitara Concert Hall.
+
+https://www.tripadvisor.com/Attraction_Review-g298560-d10317551-Reviews-Leonard_Bernstein_Statue-Sapporo_Hokkaido.html
+
 
