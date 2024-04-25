@@ -121,7 +121,7 @@ The Pacific Music Festival (PMF) is an international educational music festival 
 
 https://www.pmf.or.jp/en/about/
 
-The PMF is running in parallel to coming MPEG meeting so you have chance to experience the event. It is held both in Kitara concert hall in Sapporo and Suntory hall in Tokyo.
+The PMF is running in parallel to coming MPEG meeting by chance, you have chance to experience the one of most famous international educational music festivals. It is held both in Kitara concert hall in Sapporo and Suntory hall in Tokyo.
 
 Schedule
 
