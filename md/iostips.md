@@ -9,7 +9,7 @@
     - [NEt Cafe](#net-cafe)
     - [On-sen Ryokan](#on-sen-ryokan)
   - [Bear](#bear)
-  - [Pacific Music Festivale\]](#pacific-music-festivale)
+  - [Pacific Music Festivale](#pacific-music-festivale)
 
 
 
@@ -115,7 +115,7 @@ In summer bear rarely come down to city area, because plenty foods in the mounta
 https://www.google.com/maps/d/u/0/viewer?mid=1KFgO-08qe4azD2bx968B7SM7nus&ll=43.05781885094037%2C141.51143192773435&z=10
 
 
-## Pacific Music Festivale]
+## Pacific Music Festivale
 
 The Pacific Music Festival (PMF) is an international educational music festival founded in Sapporo, Japan in 1990 by Leonard Bernstein (1918-1990), world-renowned conductor and composer of such works as West Side Story.
 
