@@ -2,11 +2,12 @@
   - [Restaulants](#restaulants)
     - [general](#general)
     - [Suggestions](#suggestions)
-  - [accomodations](#accomodations)
+  - [Prepaid Transportation Card](#prepaid-transportation-card)
+  - [Few hints for accomodations](#few-hints-for-accomodations)
     - [Shin sapporo area](#shin-sapporo-area)
     - [Air BnB](#air-bnb)
     - [Love hotels.](#love-hotels)
-    - [NEt Cafe](#net-cafe)
+    - [Net Cafe](#net-cafe)
     - [On-sen Ryokan](#on-sen-ryokan)
   - [Bear](#bear)
   - [Pacific Music Festivale](#pacific-music-festivale)
@@ -58,7 +59,14 @@ Japanese web pages can be read using Google Translate or other translation servi
    https://r.gnavi.co.jp/h128000/menu8/
 
 
-## accomodations
+## Prepaid Transportation Card
+In Japan, the prepaid card SUICA is very convenient. Although it is a prepaid card for transportation, it can now also be used for vending machines and shopping.
+
+If you have time to go to the JR counter at Narita Airport, it would be a good idea to buy it at Narita Airport. A deposit of 500 yen is required, but it will be refunded when the card is returned.
+
+SUICA can be used in most areas including Sapporo.You can also purchase Sappor version of SUICA in Sappor city. That Sapporo version have a little advantage and disadvantage.
+
+## Few hints for accomodations
 
 ### Shin sapporo area
 
@@ -76,7 +84,9 @@ Or you can find other hotels using avobe mentioned url, which is Japanese hotel 
 
 ### Air BnB
 
-AirBnB also provide service in Japan. The price is not chap though, quality of the room is usually good. Plese check if host of the room can speak English. Japan is relatively safe country and there are minimum regulations for the safety for the AirBnB rooms. So it should be safe to stay AirBnB.
+AirBnB also provide service in Japan. The price is not chap though, quality of the room is usually good. Plese check if host of the room can speak English. Japan is relatively safe country and there are minimum regulations for the safety for the AirBnB rooms. So it should be safe to stay AirBnB. You can actually stay in the typical apartment or house in Japan.
+
+Many facilities have in-room instructions written in poor but adequate English.
 
 ### Love hotels.
 
@@ -88,7 +98,7 @@ Booking com list of love hotels.
 
 https://www.booking.com/searchresults.html?ss=Sapporo&ssne=Sapporo&ssne_untouched=Sapporo&theme_id=32&efdco=1&label=gog235jc-1FCAMYmQQodTi5A0gVWANoTYgBAZgBFbgBF8gBDNgBAegBAfgBAogCAagCA7gCgsSesQbAAgHSAiRmNTM1NTM2My1mMTU2LTQ2NzYtYmUzNC0xN2MyYjMxNjdjNDPYAgXgAgE&sid=8f71a747acdede97bcdb4f9ef0271366&aid=356995&lang=en-us&sb=1&src_elem=sb&src=city&dest_id=-242395&dest_type=city&checkin=2024-07-15&checkout=2024-07-21&group_adults=2&no_rooms=1&group_children=0&sb_travel_purpose=leisure&theme_id=32
 
-### NEt Cafe
+### Net Cafe
 
 There are many internet cafes where you can enjoy manga, anime, and DVDs while maintaining your privacy. The price is quite low, so you can use it just for the stay. Some internet cafe rooms are equipped with a sofa (not a bed, so no bedding is provided). There are often shared showers. I probably do not recomend it but if you can not find any hotels just for one specific day, it can be the last resort.
 
